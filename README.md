@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shruthi-Arun
-- 👀 I’m interested in BLockchain Technology
+- 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning JavaScript
 <!---
 - 💞️ I’m looking to collaborate on ...
