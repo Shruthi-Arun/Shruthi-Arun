@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shruthi-Arun
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning JavaScript and Python
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
