@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning JavaScript and Python
 
+
+
 👀 Looking for more? Check out my full portfolio at [My Portfolio](https://shruthi-arun.github.io/shruthiarunkumar/)
 
 ### My Top Languages
@@ -12,6 +14,8 @@
 
 ### Some Stats
 
+![](https://komarev.com/ghpvc/?username=Shruthi-Arun&color=fb418c)
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruthi-Arun&show_icons=true&count_private=true&hide=prs&theme=radical)
 
